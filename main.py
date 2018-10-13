@@ -24,6 +24,7 @@ def drawFiveStar(t,b):
         t.forward(b)
         t.right(144)
     t.penup()
+    t.pendowm()
     t.end_fill()
 
 
